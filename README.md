@@ -4,4 +4,4 @@ Sample code from Data Structure.
 
 - [ ] Trees
   - [ ] AVL Tree
-  - [] RB Tree
+  - [x] RB Tree
